@@ -1,4 +1,3 @@
-
 ls
 grep
 touch
@@ -13,4 +12,3 @@ rmdir
 mv
 nano
 cd
-
